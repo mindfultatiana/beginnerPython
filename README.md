@@ -6,4 +6,4 @@ I wanted to do two things:
 
 So here are a bunch of different projects that someone starting in python can do. They may become progressively more complicated as I improve. I may also go in and update some projects overtime. Mostly I just want to have fun with this and encourage myself and other people to learn.
 
-I may build things that are based off other tutorials or projects and I will give credit and links for those in the README of each project. Happy coding!
+I may build things that are based off other tutorials or projects and I will give credit and links for those in the README of each project if gotten outside GitHub. Happy coding!

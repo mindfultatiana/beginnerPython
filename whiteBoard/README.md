@@ -11,7 +11,7 @@ I liked the project concept so much I decided to make a blackboard version of it
 1. Be sure you have a functional version of python downloaded. For some reason 3.12 doesn't work well with libraries for me so I used 3.9.1 to build this.
    Download python here: https://www.python.org/downloads/
 
-2. Import your libraries. If they are grayed out or not working somehow you may have to use pip to download them individually.
+2. Import your libraries. If they are grayed out or not working somehow you may have to use pip to download them individually in Terminal.
 
 ```
 pip install tkinter

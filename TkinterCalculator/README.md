@@ -6,6 +6,11 @@ Please be sure to check out the original.
 
 I decided to make my own version myCalculator.py where I played around with the colors and the button placement.
 
+![image](https://github.com/mindfultatiana/beginnerPython/assets/13071148/41672bed-f687-4b98-950f-0b31a6130510)
+
+**myCalculatorV2.py** is the one I'm still trying to work the kinks out on. I added a percent button but still am struggling with getting it to operate.
+I made more comments about this in the below **Personal Comments** section
+
 ## First Steps
 
 1. Be sure you have a functional version of python downloaded. For some reason 3.12 doesn't work well with libraries for me so I used 3.9.1 to build this.

@@ -4,7 +4,7 @@ This is a calculator you can build using Tkinter.
 I got this from Gulsanober Saba's tutorial on https://www.simplifiedpython.net/python-calculator/
 Please be sure to check out the original.
 
-I decided to make my own version myCalculator.py where I played around with the colors and the button placement.
+I decided to make my own version myCalculator.py where I played around with the colors.
 
 ![image](https://github.com/mindfultatiana/beginnerPython/assets/13071148/41672bed-f687-4b98-950f-0b31a6130510)
 

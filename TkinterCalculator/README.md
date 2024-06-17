@@ -37,4 +37,5 @@ It's nice to learn some more stylistic choices and decide how I want things to l
 
 This taught me that going between a display and calculations is actually really difficult with some operations. I asked for help and some people said I might have a compiler issue when trying to add a percent button. I think the problem is how it overall is built. I'm going to need to build a full calculator underneath and then create the display shell on top instead of depending on the display to do more than extremely basic arithmetic functions.
 
+I may come back to this project later with a solution or I may try to build a calculator in a lower language and put a tkinter display on top. Either way I'll learn a lot in the process.
 
